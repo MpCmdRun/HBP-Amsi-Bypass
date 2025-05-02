@@ -1,0 +1,103 @@
+﻿  HardwareBreakPoints.c
+  main.c
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(97,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(98,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(99,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(100,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(106,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(107,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(116,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'HardwareBreakPoints.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(30,3): warning C4047: 'return': 'PBYTE' differs in levels of indirection from 'DWORD64'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(32,3): warning C4047: 'return': 'PBYTE' differs in levels of indirection from 'DWORD64'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(34,3): warning C4047: 'return': 'PBYTE' differs in levels of indirection from 'DWORD64'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(36,3): warning C4047: 'return': 'PBYTE' differs in levels of indirection from 'DWORD64'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(42,2): warning C4047: 'return': 'PBYTE' differs in levels of indirection from 'ULONG_PTR'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(107,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(108,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(109,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(110,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(119,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(120,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(121,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(122,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(253,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(254,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(255,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(256,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(315,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(316,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(317,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(318,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(342,74): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(342,74): warning C4024: 'pNtQuerySystemInformation': different types for formal and actual parameter 3
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(357,39): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'DWORD'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(363,45): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'HANDLE'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(366,60): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'HANDLE'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(366,60): warning C4024: 'SetHardwareBreakpoint': different types for formal and actual parameter 1
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(331,14): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(332,3): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(335,16): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(393,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(394,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(395,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(396,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(427,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(428,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(527,8): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'PBYTE'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(551,40): warning C4047: 'function': 'PUINT_VAR_T' differs in levels of indirection from 'PVOID'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(551,40): warning C4024: 'InstallHardwareBreakingPntHook': different types for formal and actual parameter 1
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(557,39): warning C4047: 'function': 'PUINT_VAR_T' differs in levels of indirection from 'PVOID'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.c(557,39): warning C4024: 'RemoveHardwareBreakingPntHook': different types for formal and actual parameter 1
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(97,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(98,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(99,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(100,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(106,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(107,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\HardwareBreakPoints.h(116,1): warning C4010: single-line comment contains line-continuation character
+  (compiling source file 'main.c')
+  
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(35,58): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(35,58): warning C4024: 'CreateFileW': different types for formal and actual parameter 3
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,31): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,31): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,37): warning C4047: 'function': 'LPTHREAD_START_ROUTINE' differs in levels of indirection from 'PBYTE'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,37): warning C4024: 'CreateThread': different types for formal and actual parameter 3
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,56): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(62,56): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(27,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(28,4): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(29,4): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(97,38): warning C4047: 'function': 'PUINT_VAR_T' differs in levels of indirection from 'PVOID'
+C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\AmsiBypassViaHBP\main.c(97,38): warning C4024: 'InstallHardwareBreakingPntHook': different types for formal and actual parameter 1
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AmsiBypassViaHBP.vcxproj -> C:\Users\miles\Downloads\ILE\AmsiBypassViaHBP\x64\Release\AmsiBypassViaHBP.exe
